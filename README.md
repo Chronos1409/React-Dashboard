@@ -42,6 +42,6 @@ Make sure you have the following installed on your system:
    npm install
  ```
 4. Start Server
-    ```bash
-    npm start
-     ```
+ ```bash
+  npm start
+  ```
