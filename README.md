@@ -30,3 +30,12 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Chronos1409/React-Dashboard.git
+
+2. Navigate to the project directory:
+- for example -
+ ```bash
+  cd React-Dashboard 
+
+- Install dependencies
+ ```bash
+npm install
